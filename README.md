@@ -31,4 +31,4 @@ python -m pip install -r requirements.txt
 ## Команда запуска Python-проверки
 
 ```bash
-python check.py
+python src/check_connection.py
